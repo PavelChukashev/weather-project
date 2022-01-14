@@ -1,0 +1,31 @@
+body {
+  margin: 0 auto;
+  padding: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: rgb(48, 185, 226);
+  background-color: rgb(58, 57, 57);
+}
+
+header {
+  height: 10vh;
+  box-shadow: rgb(26, 34, 37) 0px 2px 10px 3px;
+}
+
+.weather-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+}
+
+footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  bottom: 0;
+  height: 10vh;
+  width: 100vw;
+  box-shadow: rgb(26, 34, 37) 0px 2px 4px 6px;
+}
