@@ -1,7 +1,7 @@
 import { createStore } from 'redux'
 
 const defaultState = {
-    cash: 0,
+    value: 0,
 }
 
 const reducer = (state = defaultState, action) => {

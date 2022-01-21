@@ -1,14 +1,14 @@
-import React from 'react'
-import Header from './components/header/Header'
 import './App.css'
-import Weather from './components/Weather/Weather'
+import React from 'react'
+import MainContent from './components/weather'
+import Header from './components/header/Header'
 import Footer from './components/footer/Footer'
 
 export default function App() {
     return (
         <>
             <Header/>
-            <Weather/>
+            <MainContent/>
             <Footer/>
         </>
     )
