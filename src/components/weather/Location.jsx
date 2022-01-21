@@ -30,3 +30,12 @@ function Location() {
 }
 
 export default Location;
+
+
+
+
+// API Key for maps -->
+// AIzaSyDMqJ9TMB7zE7h9iSs4zFXrBDQYu77-FEs
+
+// Open Weather API Key -->
+// ed4f78a0b515380f6adf5068d2777e3f
